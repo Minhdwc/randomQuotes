@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;      
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+.main{
+    color: #fff;
+    align-items: center ;
+    width: 100%;
+    border: #fff solid 1px  ;
+    min-height: 400px;
+    background-color: #333;
+
+}
+h2, h5  {
+    text-align: center;
+}
+h6{
+    float: right;
+}
