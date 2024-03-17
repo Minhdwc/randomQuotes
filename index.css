@@ -1,7 +1,8 @@
-*{
+* {
     box-sizing: border-box;
-    margin: 0;      
+    margin: 0;
 }
+
 body {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
@@ -9,19 +10,23 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-  }
-.main{
+}
+
+.main {
     color: #fff;
-    align-items: center ;
+    align-items: center;
     width: 100%;
-    border: #fff solid 1px  ;
+    border: #fff solid 1px;
     min-height: 400px;
     background-color: #333;
-
+    border-radius: 25px;
 }
-h2, h5  {
+
+h2,
+h5 {
     text-align: center;
 }
-h6{
+
+h6 {
     float: right;
 }
